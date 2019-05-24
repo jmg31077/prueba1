@@ -10,9 +10,9 @@
 <body>
     <div class="quote">
         <div class="box">
-        <?php
+        <h2><?php
 Hola Mundo
-?>
+?></h2>
         </div>
     </div>
 </body>
